@@ -4,7 +4,7 @@
 
 ## conf
 ```yaml
-gn8:
+GN8:
   conf:
     # 免打扰时间段，单位为小时
     dnd_duration: [1,8]
