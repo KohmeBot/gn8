@@ -38,7 +38,7 @@ func (p *PluginGN8) Commands() fmt.Stringer {
 }
 
 func (p *PluginGN8) Version() uint64 {
-	return uint64(version.NewVersion(0, 0, 1))
+	return uint64(version.NewVersion(0, 0, 2))
 }
 
 func (p *PluginGN8) OnBoot() {
