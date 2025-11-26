@@ -2,7 +2,7 @@ package gn8sdk
 
 import (
 	"fmt"
-	"github.com/kohmebot/plugin"
+	"github.com/kohmebot/plugin/v2"
 	"reflect"
 	"time"
 )
